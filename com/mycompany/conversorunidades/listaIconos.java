@@ -16,9 +16,9 @@ public class listaIconos {
     ArrayList<String> listaIconos = new ArrayList<>();
 
     public listaIconos() {
-        listaIconos.add("/home/solgaleo/NetBeansProjects/conversorUnidades/src/main/java/imagenesApp/monedas1.png");
-        listaIconos.add("/home/solgaleo/NetBeansProjects/conversorUnidades/src/main/java/imagenesApp/lapizRegla.png");
-        listaIconos.add("/home/solgaleo/NetBeansProjects/conversorUnidades/src/main/java/imagenesApp/termometro.png");
+        listaIconos.add("/imagenesApp/monedas1.png");
+        listaIconos.add("/imagenesApp/lapizRegla.png");
+        listaIconos.add("/imagenesApp/termometro.png");
     }
         
     
